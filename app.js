@@ -9,6 +9,7 @@ function start() {
   test2();
   test3();
   feature4();
+  feature5();
 }
 
 function feature2() {
