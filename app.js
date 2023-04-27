@@ -18,6 +18,9 @@ function feature2() {
 
 function test1() {
   console.log("hey");
+  console.log("nr1");
+  console.log("nr2");
+  console.log("nr3");
 }
 
 function feature3() {
