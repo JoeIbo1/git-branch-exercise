@@ -6,6 +6,7 @@ function start() {
   console.log("hello Java");
   feature2();
   test1();
+  feature4();
 }
 
 function feature2() {
