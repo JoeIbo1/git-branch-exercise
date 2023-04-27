@@ -1,5 +1,7 @@
-"use strict"
+"use strict";
+
+window.addEventListener("load", start);
 
 function start() {
-    console.log("hello Java");
+  console.log("hello Java");
 }
