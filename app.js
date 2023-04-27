@@ -7,6 +7,7 @@ function start() {
   feature2();
   test1();
   test2();
+  test3();
 }
 
 function feature2() {
@@ -21,4 +22,7 @@ function test1() {
 function test2() {
     console.log("anden test");
     
+}
+function test3(){
+    console.log("tredje test");
 }
