@@ -19,3 +19,8 @@ function test1() {
 function feature3() {
   console.log("Feature3");
 }
+
+function feature4() {
+  feature3();
+  console.log("Feature4");
+}
