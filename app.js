@@ -10,9 +10,12 @@ function start() {
 
 function feature2() {
   console.log("Feature2");
-  
 }
 
 function test1() {
-    console.log("hey")
+  console.log("hey");
+}
+
+function feature3() {
+  console.log("Feature3");
 }
