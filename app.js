@@ -34,3 +34,7 @@ function test2() {
 function test3() {
   console.log("tredje test");
 }
+
+function feature5() {
+  console.log("Feature5");
+}
