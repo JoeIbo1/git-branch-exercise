@@ -6,6 +6,8 @@ function start() {
   console.log("hello Java");
   feature2();
   test1();
+  test2();
+  test3();
   feature4();
 }
 
@@ -24,4 +26,11 @@ function feature3() {
 function feature4() {
   feature3();
   console.log("Feature4");
+}
+
+function test2() {
+  console.log("anden test");
+}
+function test3() {
+  console.log("tredje test");
 }
