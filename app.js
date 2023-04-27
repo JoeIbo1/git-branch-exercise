@@ -17,6 +17,7 @@ function feature2() {
 
 function test1() {
   console.log("hey");
+  console.log("nr1");
 }
 
 function feature3() {
